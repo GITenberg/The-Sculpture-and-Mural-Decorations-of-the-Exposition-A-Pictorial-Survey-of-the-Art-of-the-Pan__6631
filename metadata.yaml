@@ -1,0 +1,27 @@
+_repo: The-Sculpture-and-Mural-Decorations-of-the-Exposition-A-Pictorial-Survey-of-the-Art-of-the-Pan__6631
+creator:
+  author:
+    agent_name: Perry, Stella G. S. (Stella George Stern)
+    aliases:
+    - Perry, S. G. (Stella George)
+    - Perry, Stella George Stern
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '2121'
+    url: http://www.gutenberg.org/2009/agents/2121
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sculpture, American'
+- !lcc 'N'
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+title: "The Sculpture and Mural Decorations of the Exposition\r\nA Pictorial Survey\
+  \ of the Art of the Panama-Pacific international exposition"
+url: http://www.gutenberg.org/ebooks/6631
